@@ -1,0 +1,15 @@
+package main.baekjoon.{난이도}
+
+/**
+ * BOJ {문제번호} - {문제 제목}
+ * https://www.acmicpc.net/problem/{문제번호}
+ *
+ * 분류: {알고리즘 분류}
+ */
+fun main() = with(System.`in`.bufferedReader()) {
+    val sb = StringBuilder()
+
+    // 풀이 작성
+
+    print(sb)
+}
