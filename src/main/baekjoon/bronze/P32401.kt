@@ -10,6 +10,29 @@ fun main() = with(System.`in`.bufferedReader()) {
     val sb = StringBuilder()
 
     // 풀이 작성
+    val length = readLine()!!.trim().toInt()
+    val string = readLine()!!.trim()
 
-    print(sb)
+    var result = 0
+
+    val aIndex = mutableListOf<Int>()
+    val nIndex = mutableListOf<Int>()
+
+    string.forEachIndexed { i, char ->
+        if (char == 'A') aIndex.add(i)
+        if (char == 'N') nIndex.add(i)
+    }
+
+    // 2개씩 슬라이딩 윈도우
+    aIndex.windowed(2).forEach { (left, right) ->
+        if (left + 1 == right) {
+            return@forEach
+        }
+
+        // nIndex에서 'left < n && n < right' count
+        val nCount = nIndex.count { it in (left + 1)..<right }
+        if (nCount == 1) result++
+    }
+
+    print(result)
 }
