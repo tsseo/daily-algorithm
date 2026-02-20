@@ -26,6 +26,7 @@ src/main/baekjoon/
 
 | 문제 번호 | 제목 | 풀이 |
 |-----------|------|------|
+| 1384 | [메시지](https://www.acmicpc.net/problem/1384) | [풀이](src/main/baekjoon/silver/P1384.kt) |
 
 ### Gold
 
