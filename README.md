@@ -21,6 +21,7 @@ src/main/baekjoon/
 | 문제 번호 | 제목 | 풀이 |
 |-----------|------|------|
 | 32401 | [ANA는 회문이야](https://www.acmicpc.net/problem/32401) | [풀이](src/main/baekjoon/bronze/P32401.kt) |
+| 3448 | [문자 인식 인식률](https://www.acmicpc.net/problem/3448) | [풀이](src/main/baekjoon/bronze/P3448.kt) |
 
 ### Silver
 
