@@ -29,6 +29,7 @@ src/main/baekjoon/
 |-----------|------|------|
 | 1384 | [메시지](https://www.acmicpc.net/problem/1384) | [풀이](src/main/baekjoon/silver/P1384.kt) |
 | 33846 | [삽입 정렬](https://www.acmicpc.net/problem/33846) | [풀이](src/main/baekjoon/silver/P33846.kt) |
+| 16948 | [데스 나이트](https://www.acmicpc.net/problem/16948) | [풀이](src/main/baekjoon/silver/P16948.kt) |
 
 ### Gold
 
