@@ -18,23 +18,24 @@ src/main/baekjoon/
 
 ### Bronze
 
-| 문제 번호 | 제목 | 풀이 |
-|-----------|------|------|
-| 32401 | [ANA는 회문이야](https://www.acmicpc.net/problem/32401) | [풀이](src/main/baekjoon/bronze/P32401.kt) |
-| 3448 | [문자 인식 인식률](https://www.acmicpc.net/problem/3448) | [풀이](src/main/baekjoon/bronze/P3448.kt) |
+| 문제 번호 | 제목 | 분류 | 풀이 |
+|-----------|------|------|------|
+| 32401 | [ANA는 회문이야](https://www.acmicpc.net/problem/32401) | 문자열 | [풀이](src/main/baekjoon/bronze/P32401.kt) |
+| 3448 | [문자 인식 인식률](https://www.acmicpc.net/problem/3448) | 문자열, 구현 | [풀이](src/main/baekjoon/bronze/P3448.kt) |
 
 ### Silver
 
-| 문제 번호 | 제목 | 풀이 |
-|-----------|------|------|
-| 1384 | [메시지](https://www.acmicpc.net/problem/1384) | [풀이](src/main/baekjoon/silver/P1384.kt) |
-| 33846 | [삽입 정렬](https://www.acmicpc.net/problem/33846) | [풀이](src/main/baekjoon/silver/P33846.kt) |
-| 16948 | [데스 나이트](https://www.acmicpc.net/problem/16948) | [풀이](src/main/baekjoon/silver/P16948.kt) |
+| 문제 번호 | 제목 | 분류 | 풀이 |
+|-----------|------|------|------|
+| 1384 | [메시지](https://www.acmicpc.net/problem/1384) | 구현, 시뮬레이션 | [풀이](src/main/baekjoon/silver/P1384.kt) |
+| 33846 | [삽입 정렬](https://www.acmicpc.net/problem/33846) | 정렬 | [풀이](src/main/baekjoon/silver/P33846.kt) |
+| 16948 | [데스 나이트](https://www.acmicpc.net/problem/16948) | BFS | [풀이](src/main/baekjoon/silver/P16948.kt) |
+| 29615 | [알파빌과 베타빌](https://www.acmicpc.net/problem/29615) | 그리디 | [풀이](src/main/baekjoon/silver/P29615.kt) |
 
 ### Gold
 
-| 문제 번호 | 제목 | 풀이 |
-|-----------|------|------|
+| 문제 번호 | 제목 | 분류 | 풀이 |
+|-----------|------|------|------|
 
 ## 환경
 
