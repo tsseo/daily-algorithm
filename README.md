@@ -36,6 +36,7 @@ src/main/baekjoon/
 
 | 문제 번호 | 제목 | 분류 | 풀이 |
 |-----------|------|------|------|
+| 1407 | [2로 몇 번 나누어질까](https://www.acmicpc.net/problem/1407) | 수학 | [풀이](src/main/baekjoon/gold/P1407.kt) |
 
 ## 환경
 
