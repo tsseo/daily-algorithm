@@ -31,6 +31,7 @@ src/main/baekjoon/
 | 33846 | [삽입 정렬](https://www.acmicpc.net/problem/33846) | 정렬 | [풀이](src/main/baekjoon/silver/P33846.kt) |
 | 16948 | [데스 나이트](https://www.acmicpc.net/problem/16948) | BFS | [풀이](src/main/baekjoon/silver/P16948.kt) |
 | 29615 | [알파빌과 베타빌](https://www.acmicpc.net/problem/29615) | 그리디 | [풀이](src/main/baekjoon/silver/P29615.kt) |
+| 26085 | [효구와 호규 (Easy)](https://www.acmicpc.net/problem/26085) | 수학 | [풀이](src/main/baekjoon/silver/P26085.kt) |
 
 ### Gold
 
