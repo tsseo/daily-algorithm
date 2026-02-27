@@ -22,6 +22,7 @@ src/main/baekjoon/
 |-----------|------|------|------|
 | 32401 | [ANA는 회문이야](https://www.acmicpc.net/problem/32401) | 문자열 | [풀이](src/main/baekjoon/bronze/P32401.kt) |
 | 3448 | [문자 인식 인식률](https://www.acmicpc.net/problem/3448) | 문자열, 구현 | [풀이](src/main/baekjoon/bronze/P3448.kt) |
+| 2163 | [초콜릿 자르기](https://www.acmicpc.net/problem/2163) | 수학 | [풀이](src/main/baekjoon/bronze/P2163.kt) |
 
 ### Silver
 
