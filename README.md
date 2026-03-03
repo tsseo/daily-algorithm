@@ -34,6 +34,7 @@ src/main/baekjoon/
 | 29615 | [알파빌과 베타빌](https://www.acmicpc.net/problem/29615) | 그리디 | [풀이](src/main/baekjoon/silver/P29615.kt) |
 | 26085 | [효구와 호규 (Easy)](https://www.acmicpc.net/problem/26085) | 수학 | [풀이](src/main/baekjoon/silver/P26085.kt) |
 | 24480 | [알고리즘 수업 - 깊이 우선 탐색 2](https://www.acmicpc.net/problem/24480) | DFS, 그래프 탐색, 정렬 | [풀이](src/main/baekjoon/silver/P24480.kt) |
+| 14940 | [쉬운 최단거리](https://www.acmicpc.net/problem/14940) | BFS, 그래프 탐색 | [풀이](src/main/baekjoon/silver/P14940.kt) |
 
 ### Gold
 
